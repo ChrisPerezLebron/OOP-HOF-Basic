@@ -1,7 +1,6 @@
-from src.basics import *
-from src.roster import *
-from src.hof import *
-
+from basics import *
+from roster import *
+from hof import *
 
 # basics.py tests (Part 1 + Part 2)
 def test_isPalindrome():
